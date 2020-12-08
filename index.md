@@ -1,7 +1,7 @@
 ---
 title: Welcome to OSUKED
 layout: page
-feature_image: "/uploads/ng_control_room.jpg"
+feature_image: "/uploads/ng_control_room_small.jpg"
 feature_text: "## "
 aside: false
 
