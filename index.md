@@ -1,9 +1,9 @@
 ---
-title: Welcome to my website
+title: Welcome to OSUKED
 layout: page
-feature_image: "https://picsum.photos/1300/400?image=989"
-feature_text: |
-  ## Hello world
----
+feature_image: "/uploads/wind_farm_sar.png"
+feature_text: "## "
+aside: false
 
-There isn't much going on here yet, but watch this space
+---
+Open Source UK Energy Data provides a combination of API wrappers, git-scrapers and Python tools for the UK energy sector
