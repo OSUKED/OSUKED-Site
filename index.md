@@ -1,8 +1,8 @@
 ---
-title: About
+title: Welcome
 layout: page
 feature_image: "/uploads/wind-farm-1.jpg"
-feature_text: "## Welcome"
+feature_text: "## ⠀"
 aside: false
 
 ---
