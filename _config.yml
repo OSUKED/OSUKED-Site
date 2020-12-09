@@ -18,12 +18,12 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://osuked.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'OSUKED'
+description: 'Open Source UK Energy Data'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://raw.githubusercontent.com/AyrtonB/OSUKED-Site/master/uploads/logo.svg"
 
 # Pagination
 paginate: 5
@@ -36,5 +36,5 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: ↑
+- title: ^
   url: "#top"
