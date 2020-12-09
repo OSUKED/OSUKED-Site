@@ -1,7 +1,7 @@
 ---
 title: Welcome to OSUKED
 layout: page
-feature_image: "/uploads/wind-farm.jpg"
+feature_image: "/uploads/wind-farm-1.jpg"
 feature_text: "##  "
 aside: false
 
