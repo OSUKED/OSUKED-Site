@@ -30,3 +30,7 @@ Our [sister site](https://osenergynews.co.uk/), which collates the latest energy
 * [Day-ahead/Futures Prices](https://github.com/OSUKED/Apollo-Watch)
 * [Fuel Prices](https://github.com/OSUKED/Fuel-Index-Watch)
 * [Contract for Difference Prices](https://github.com/OSUKED/CfD-Watch)
+
+<br>
+
+In future we are looking to add git-crawlers (automated tools for identifying and parsing dataset metadata) and dictionaries (for mapping between different naming conventions)
